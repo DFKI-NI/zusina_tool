@@ -32,7 +32,7 @@ Dadurch wird eine Flask-Applikation gestartet. Die kann z.B. auch auf einem Serv
 Das Projekt ist unter der BSD-3 Lizenz veröffentlicht.
 
 ## Wartung
-Diese Software ist ein Produkt des abgeschlossenenen Forschungsprojekts ZuSiNa und wird nicht maintained. Wenn Sie diese Anwendung selber umsetzen möchten, stehen wir Ihnen gerne zur Verfügung Daphne Theodorakopoulos (daphne.theodorakopoulos@dfki.de).
+Diese Software ist ein Produkt des abgeschlossenenen Forschungsprojekts ZuSiNa und wird nicht maintained. Wenn Sie diese Anwendung selber umsetzen möchten, stehen wir Ihnen gerne zur Verfügung (Daphne Theodorakopoulos, daphne.theodorakopoulos@dfki.de).
 
 
 ## Förderung
