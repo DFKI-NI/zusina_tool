@@ -22,9 +22,9 @@ Um die Applikation zu starten, muss dieses Command ausgeführt werden:
 Dadurch wird eine Flask-Applikation gestartet. Die kann z.B. auch auf einem Server laufen und von mehreren Usern gleichzeitig genutzt werden. Die Applikation kümmert sich auch um das User-Management.
 
 ### Ein Modell Trainieren
-1. Ein Datensatz mit aktuellen, glaubwürdigen Texten über die Nachhaltigkeit im Textilsektor erstellen. Die Datei `Model_training/Literaturliste.txt` enthält eine Literaturliste entsprechender Dateien vom Stand von 2023.
+1. Ein Datensatz mit aktuellen, glaubwürdigen Texten über die Nachhaltigkeit im Textilsektor erstellen. Die Datei `Model_training/Literaturliste.csv` enthält eine Literaturliste entsprechender Dateien vom Stand von 2023.
 2. Das Preprocessing Skript mit dem Pfad zu den Dateien ausführen: `python Model_training/preprocessing.py`
-3. Die Textabschnitte labeln (entweder mit den vorgegebenen Nachhaltigkeitsklassen in `Model_training/Nachhaltigkeitsklassen.txt` oder mit selbstdefinierten Klassen).
+3. Die Textabschnitte labeln (entweder mit den vorgegebenen Nachhaltigkeitsklassen in `Model_training/Nachhaltigkeitsklassen.csv` oder mit selbstdefinierten Klassen).
 4. Das Modell mit den gelabelten Daten trainieren:  `python Model_training/train_model.py`
 5. Die Pfade in der Applikation zum trainierten Modell und dem Datensatz verändern, sodass es in der Applikation genutzt wird.
 
