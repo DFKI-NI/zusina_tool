@@ -28,6 +28,13 @@ Dadurch wird eine Flask-Applikation gestartet. Die kann z.B. auch auf einem Serv
 4. Das Modell mit den gelabelten Daten trainieren:  `python Model_training/train_model.py`
 5. Die Pfade in der Applikation zum trainierten Modell und dem Datensatz verändern, sodass es in der Applikation genutzt wird.
 
+## Lizenz
+Das Projekt ist unter der BSD-3 Lizenz veröffentlicht.
+
+## Wartung
+Diese Software ist ein Produkt des abgeschlossenenen Forschungsprojekts ZuSiNa und wird nicht maintained. Wenn Sie diese Anwendung selber umsetzen möchten, stehen wir Ihnen gerne zur Verfügung Daphne Theodorakopoulos (daphne.theodorakopoulos@dfki.de).
+
+
 ## Förderung
 Die Dateien in diesem Repository wurden im Rahmen des Forschungsprojekts ZuSiNa, das vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert wird (FKZ: 67KI21009A) entwickelt. Weitere Informationen sind auf der [Projektseite](https://www.zusina-projekt.de/) und im [Online-Guide](https://www.zusina-guide.de/) zu finden. 
 
