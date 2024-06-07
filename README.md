@@ -13,7 +13,7 @@ Die zweite Seite zeigt das Ergebnis der Analyse. Das Tortendiagramm zeigt die Ve
 ## Installation
 Das GitHub Repository muss heruntergeladen werden und die Pakete in der `requirements.txt` Datei müssen installiert werden.
 
-## Implementation
+## Umsetzung
 ### Die Web-Applikation starten
 Um die Applikation zu starten, muss dieses Command ausgeführt werden:
 
