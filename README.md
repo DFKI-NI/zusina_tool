@@ -1,6 +1,6 @@
 # ZuSiNa Tool
 
-Im Forschungsprojekt ZuSiNa (Besserer Zugang und Sichtbarkeit von Nachhaltigkeitsinformationen im Online-Handel durch KI) wurde ein Textklassifikationstool entwickelt, das Texte in Nachhaltigkeitsklassen einordnet. Es soll Verbraucher:innen dabei helfen sich anhand glaubwürdiger Informationen über die Nachhaltigkeit im Textilsektor zu bestimmten Marken zu informieren. Mehr Informationen dazu können im [Online-Guide](https://www.zusina-guide.de/glaubwuerdige-nachhaltigkeitsinformation/) des Projekts gelesen werden. Die Bilder zeigen die Applikation mit Beispieldaten.
+Im Forschungsprojekt ZuSiNa (Besserer Zugang und Sichtbarkeit von Nachhaltigkeitsinformationen im Online-Handel durch KI) wurde ein Textklassifikationstool entwickelt, das Texte in Nachhaltigkeitsklassen einordnet. Es soll Verbraucher:innen dabei helfen sich anhand glaubwürdiger Informationen über die Nachhaltigkeit im Textilsektor zu bestimmten Marken zu informieren. Mehr Informationen dazu können im [zweiten Teil des Online-Guides](https://www.zusina-guide.de/glaubwuerdige-nachhaltigkeitsinformation/) des Projekts gelesen werden. Die Bilder zeigen die Applikation mit Beispieldaten.
 
 ![image](https://github.com/DFKI-NI/zusina_tool/assets/56087728/d1fbb43e-d9fd-440e-bacb-d48f58d1d3f4)
 
@@ -29,7 +29,7 @@ Dadurch wird eine Flask-Applikation gestartet. Die kann z.B. auch auf einem Serv
 5. Die Pfade in der Applikation zum trainierten Modell und dem Datensatz verändern, sodass es in der Applikation genutzt wird.
 
 ## Förderung
-Die Dateien in diesem Repository wurden im Rahmen des Forschungsprojekts ZuSiNa, das vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert wird (FKZ: 67KI21009A) entwickelt. Weitere Informationen sind auf https://www.zusina-projekt.de/ zu finden. 
+Die Dateien in diesem Repository wurden im Rahmen des Forschungsprojekts ZuSiNa, das vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) gefördert wird (FKZ: 67KI21009A) entwickelt. Weitere Informationen sind auf der [Projektseite](https://www.zusina-projekt.de/) und im [Online-Guide](https://www.zusina-guide.de/) zu finden. 
 
 
 
