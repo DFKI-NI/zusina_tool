@@ -1,3 +1,4 @@
+# Script to download the pdfs from given websites, i.e. textile NGOs.
 import os
 import urllib.request
 import pandas as pd
